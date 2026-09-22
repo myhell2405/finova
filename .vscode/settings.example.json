@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "finova mysql (local)",
+      "driver": "MySQL",
+      "server": "localhost",
+      "port": 3306,
+      "database": "finova",
+      "username": "YOUR_USERNAME",
+      "password": "YOUR_PASSWORD"
+    }
+  ]
+}

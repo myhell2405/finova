@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor settings may contain local credentials
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment variables and database exports
+.env
+.env.*
+!.env.example
+*.sql.bak
